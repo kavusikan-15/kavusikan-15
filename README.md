@@ -50,23 +50,23 @@ I'm a Full Stack Developer with hands-on experience in building efficient, scala
 
 ## 💼 Projects
 
-- 🚗 **[Car Landing Page](https://github.com/kavusikan-15)**  
+- 🚗 **[Car Landing Page](https://github.com/kavusikan-15/CAR_LANDING_PAGE)**  
   A sleek and responsive landing page for Nissan cars.  
   *Tech:* HTML, CSS, React.js
 
-- 🔐 **[MERN Auth System](https://github.com/kavusikan-15)**  
-  Complete authentication with email verification and password recovery.  
+- 🔐 **[MERN Auth System](https://github.com/kavusikan-15/User_Auth)**  
+  Complete authentication system with email verification and password recovery.  
   *Tech:* MongoDB, Express.js, React.js, Node.js
 
-- 💬 **[Real-Time Chat Application](https://github.com/kavusikan-15)**  
-  Group chats, emoji support, file sharing, and real-time communication with JWT and Zustand.  
+- 💬 **Real-Time Chat Application** *(private/in development)*  
+  Group chats, emoji support, file sharing, and real-time messaging using Socket.io and Zustand.  
   *Tech:* React.js, Node.js, Socket.io, Zustand, MongoDB, Tailwind CSS
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Secured **6th place** in “SIH THIRUVIZHA” Hackathon at KGiSL Institute of Technology
+- 🥇 Secured **6th place** in “SIH THIRUVIZHA” Hackathon at KGiSL Institute of Technology  
 - 👨‍🏫 Certified **mentor and technical guide** for AWS DeepRacer 3.0 League
 
 ---
@@ -83,4 +83,3 @@ I'm a Full Stack Developer with hands-on experience in building efficient, scala
 _⚡ Fun fact: I love learning new things and always strive to improve both my code and creativity._
 
 ---
-
