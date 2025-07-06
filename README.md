@@ -1,82 +1,86 @@
 # Hi there, I'm Kavusikan 👋
 
-A passionate Full Stack Developer from India.
+🎓 B.Tech in Artificial Intelligence and Data Science  
+📍 Based in Coimbatore, India  
+🔭 An aspiring **Full Stack Developer** passionate about crafting seamless digital experiences with modern web technologies.
 
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/kavusikan-15)
-- 📫 How to reach me: kavusikanjk15@gmail.com
-- ⚡ Fun fact: I love learning new things!
+---
 
 ## 🚀 About Me
 
-I'm a Full Stack Developer with a knack for building efficient and scalable web applications. My expertise lies in both frontend and backend technologies, ensuring a seamless user experience from start to finish.
+I'm a Full Stack Developer with hands-on experience in building efficient, scalable, and user-friendly web applications. From sleek frontend designs to robust backend services, I love bridging the gap between design and technology. I’m always open to learning new tools and contributing to innovative tech projects.
+
+---
 
 ## 🛠️ Skills
 
 <ul>
-  <li><strong>Programming languages:</strong> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
-    </a> 
-    Python, 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-    </a> 
-    JavaScript
+  <li><strong>Programming Languages:</strong> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" height="20" alt="Java"/> Java, 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20" alt="JavaScript"/> JavaScript, 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" height="20" alt="Python"/> Python, SQL
   </li>
   <li><strong>Frontend:</strong> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>
-    </a> 
-    HTML, 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/>
-    </a> 
-    CSS, 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-    </a> 
-    JavaScript, 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
-    </a> 
-    React
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="20" height="20" alt="HTML"/> HTML, 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="20" height="20" alt="CSS"/> CSS, 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="20" height="20" alt="React"/> React.js, Tailwind CSS
   </li>
   <li><strong>Backend:</strong> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>
-    </a> 
-    Node.js, 
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="20" height="20"/>
-    </a> 
-    Express.js
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="20" height="20" alt="Node.js"/> Node.js, 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="20" height="20" alt="Express"/> Express.js
   </li>
   <li><strong>Databases:</strong> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/>
-    </a> 
-    MySQL, 
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/>
-    </a> 
-    MongoDB
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="20" height="20" alt="MongoDB"/> MongoDB, 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="20" height="20" alt="MySQL"/> MySQL
   </li>
-  <li><strong>Tools & Technologies:</strong> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/>
-    </a> 
-    Git, 
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/>
-    </a> 
-    AWS
+  <li><strong>Others:</strong> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="20" height="20" alt="Git"/> Git, GitHub, 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="20" height="20" alt="AWS"/> AWS, 
+    PowerBI, Streamlit, NLP
   </li>
 </ul>
 
-## Top Skills
+---
+
+## 📈 GitHub Stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavusikan-15&layout=compact&theme=radical)](https://github.com/kavusikan-15/github-readme-stats)
 
+---
+
+## 💼 Projects
+
+- 🚗 **[Car Landing Page](https://github.com/kavusikan-15)**  
+  A sleek and responsive landing page for Nissan cars.  
+  *Tech:* HTML, CSS, React.js
+
+- 🔐 **[MERN Auth System](https://github.com/kavusikan-15)**  
+  Complete authentication with email verification and password recovery.  
+  *Tech:* MongoDB, Express.js, React.js, Node.js
+
+- 💬 **[Real-Time Chat Application](https://github.com/kavusikan-15)**  
+  Group chats, emoji support, file sharing, and real-time communication with JWT and Zustand.  
+  *Tech:* React.js, Node.js, Socket.io, Zustand, MongoDB, Tailwind CSS
 
 ---
-Kavusikan
+
+## 🏆 Achievements
+
+- 🥇 Secured **6th place** in “SIH THIRUVIZHA” Hackathon at KGiSL Institute of Technology
+- 👨‍🏫 Certified **mentor and technical guide** for AWS DeepRacer 3.0 League
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: kavusikanjk15@gmail.com  
+- 📞 Phone: +91 87789 15058  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kavusikan-kanthaswamy/)  
+- 💻 [GitHub](https://github.com/kavusikan-15)
+
+---
+
+_⚡ Fun fact: I love learning new things and always strive to improve both my code and creativity._
+
+---
 
